@@ -92,10 +92,13 @@ Analyzed a consistent New York City environmental dataset of 18,862 records. Aft
 1.Prioritize "Hotspot" Interventions:
 * Target High Bridge–Morrisania: Since this district records the city's highest pollution levels, implement hyper-local mitigation strategies such as "Green Zones," increased urban canopy (trees), and stricter building emission standards.
 * Focus on UHF42 and CD: Given the higher mean values for primary pollutants in these areas, prioritize these districts for the electrification of public transit and commercial delivery fleets.
+  
 2.Tackle the "Big Two" Pollutants:
 * Aggressive PM2.5 and NO2 Reduction: Nitrogen dioxide and fine particles account for over 67% of total pollution. Policy should focus on the primary sources of these pollutants, such as heavy-duty vehicle exhaust and aging residential heating systems.
+  
 3.Enhance Public Health Protection:
 * Asthma-Focused Alerts: Since PM2.5-related asthma emergency visits show the highest extreme values, develop a more sensitive public notification system for "high-risk" days, specifically targeting vulnerable populations in UHF districts.
+  
 4.Adaptive Monitoring and Seasonal Planning:
 * Seasonal Mitigation Strategies: Since pollution trends fluctuate by season, the city should adjust its "Clean Air" initiatives.
 * District-Specific Monitoring:In the 42 UHF districts where variability is high, deploy mobile monitoring units to catch transient spikes.In UHF34, where data is consistent, maintain long-term stationary sensors.
