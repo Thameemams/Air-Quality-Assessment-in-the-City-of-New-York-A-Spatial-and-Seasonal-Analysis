@@ -1,5 +1,4 @@
-*## AIR-QUALITY-ASSESSMENT-IN-THE-CITY-OF-NEW-YORK-A-SPATIAL-AND-SEASONAL-ANALYSIS*
-# ***Geopulse:Hyper-Local Mobility Analytics***
+# ***Air Quality Assessment in the City of New York -A Spatial and Seasonal Analysis***
 
 # PHASE I
 # Aim of the Project
